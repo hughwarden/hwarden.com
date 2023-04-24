@@ -11,54 +11,36 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Southampton Research Software Group - University of Southampton
+    url: "https://rsgsoton.net/"
+    location: Southampton (Remote Working)
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Southampton Research Software Group supports the research at Southampton University by both providing expert technical skills to implement experiments and analyses as well as supplying training in basic software and programming skills to researchers.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+ # - designation: Course Developer (Part-Time)
+ #   start: August 2022
+ #   # don't provide end date if you are currently working there. It will be replaced by "Present"
+ #   # end: Dec 2020
+ #   # give some points about what was your responsibilities at the company.
+ #   responsibilities:
+ #   - TODO Fill in
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
+  - designation: Assistant Data Science Instructor (Part-Time)
+    start: August 2022
+    #end: Oct 2019
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Aid in the running of Data Analysis and Visualization in R workshop
+    - Troubleshoot and fix technical errors that arise in the execution of courses
 
 - company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Ed-DaSH Training Organisation - University of Edinburgh
+    url: "https://digitalresearchservices.ed.ac.uk/training/ed-dash"
+    location: Edinburgh (Remote Working)
+    overview: Ed-DaSH is an organisation run in collaboration with The Carpentries that teaches data science skills to researchers in the health and biosciences fields.
   positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+  - designation: Data Science Instructor (Part-Time)
+    start: April 2022
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
-
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Instructor for, and helped develop, the Introduction to Machine Learning in Python course
+    - Instructor for, and helped develop, the High Dimensional Statistics in R course
+    - Instructor for the Introduction to Statitstics in R course
