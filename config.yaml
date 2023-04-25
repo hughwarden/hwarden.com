@@ -51,7 +51,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/site/background.png
+  background: /images/site/dna.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -74,7 +74,7 @@ params:
 
     # Enable dark theme
     darkMode:
-      enable: true
+      enable: false
       services:
         darkreader:
           defaultColorScheme: light # options are 'system', 'dark', 'light'
@@ -103,7 +103,7 @@ params:
         # tumblr: true
         # pocket: true
         # diaspora: true
-        # mastodon: true
+        mastodon: true
 
     # Enable & configure "Notes" features
     notes:

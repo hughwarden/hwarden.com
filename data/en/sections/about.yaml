@@ -46,7 +46,7 @@ socialLinks:
 
 - name: Mastadon
   icon: "fab fa-mastodon"
-  url: "#"
+  url: "https://mathstodon.xyz/@hughwarden"
   rel: "me noopener"
 
 # You can put custom buttons to link your relevant resources.
