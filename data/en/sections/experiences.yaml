@@ -44,3 +44,13 @@ experiences:
     - Instructor for, and helped develop, the Introduction to Machine Learning in Python course
     - Instructor for, and helped develop, the High Dimensional Statistics in R course
     - Instructor for the Introduction to Statitstics in R course
+
+- company:
+    name: Institute of Genetics and Cancer - University of Edinburgh
+    url: "https://www.ed.ac.uk/institute-genetics-cancer"
+    location: Edinburgh
+    overview: I am currently a PhD student investigating single cell morphological profiling. My current project is investigating digital pathology slides to see if we can identify gain and loss of function mutations and time from onset of cancer from cell morphology.
+  positions:
+  - designation: PhD Research Student
+    start: April 2022
+    end: August 2025
