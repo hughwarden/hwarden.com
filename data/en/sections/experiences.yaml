@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Experiences
+  name: Experience
   id: experiences
   enable: true
   weight: 2
@@ -25,7 +25,12 @@ experiences:
  #   responsibilities:
  #   - TODO Fill in
 
-  - designation: Assistant Data Science Instructor (Part-Time)
+  - designation: Research Software Engineer (Part-Time)
+    start: October 2023
+    responsibilities:
+    - Aid researchers with small projects that require computational expertise
+
+  - designation: Data Science Instructor (Part-Time)
     start: August 2022
     #end: Oct 2019
     responsibilities:
